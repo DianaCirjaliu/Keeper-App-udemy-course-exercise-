@@ -15,3 +15,5 @@ import ReactDOM from "react-dom";
 import App from "./components/App";
 
 ReactDOM.render(<App />, document.getElementById("root"));
+
+//Chalenge:Render all the notes inside notes.js as a separate Node component
